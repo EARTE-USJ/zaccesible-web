@@ -1,0 +1,4 @@
+weight: 5
+name: "OpenStreetMap"
+icon: "fa fa-map"
+description: "[OSM](http://openstreetmap.org) es el mapa colaborativo más importante a nivel mundial. Buena parte del proyecto Zaragoza Accesible utiliza la infraestructura, datos y comunidad de OSM para almacenar, gestionar y visualizar los datos recopilados."

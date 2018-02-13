@@ -1,0 +1,4 @@
+weight: 3
+name: "Colaborativo"
+icon: "fa fa-users"
+description: "Dada la naturaleza del proyecto, es necesario darle un enfoque colaborativo en el que cualquier persona interesada, y con unos mínimos conocimientos tecnológicos y del entorno local, pueda añadir datos al mapa. Esto no solo permite aspirar a poder mapear una ciudad entera (algo impensable para un equipo pequeño de investigadores) sino que permite disponer de datos actualizados constantemente."

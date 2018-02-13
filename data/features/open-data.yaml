@@ -1,0 +1,4 @@
+weight: 4
+name: "Datos abiertos (Open-data)"
+icon: "fa fa-folder-open"
+description: "Todos los datos recopilados en el estudio de campo (así como todos los que se encuentran en OpenStreetMap) son abiertos, es decir, cualquier persona puede utilizar los datos recopilados en el estudio para cualquier fin, siempre que se cite la fuente."

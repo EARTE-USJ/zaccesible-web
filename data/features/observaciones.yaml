@@ -1,0 +1,4 @@
+weight: 2
+name: "Basado en observaciones"
+icon: "fa fa-user"
+description: "Los datos reflejados en el mapa provienen de un minucioso y sistemático estudio de campo realizado por el equipo del proyecto y por voluntarios de OpenStreetMap, lo cual permite disponer de datos actualizados y que no constan en ningún otro mapa o servicio (lo cual exigiría disponer de una licencia para poder utilizarlos)."
