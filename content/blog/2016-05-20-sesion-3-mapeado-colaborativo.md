@@ -10,6 +10,7 @@ tags:
 - Mapeado Colaborativo
 - 'Barrios: El Gancho'
 title: 'Sesión 3 Mapping party #Zaccesibilidad: Subida de datos'
+slug: 'sesion-3-mapeado-colaborativo'
 banner: img/IMG_20160520_101415_1.jpg
 ---
 
