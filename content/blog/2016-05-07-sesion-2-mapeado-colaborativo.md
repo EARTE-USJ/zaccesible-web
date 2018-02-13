@@ -12,6 +12,7 @@ tags:
 - presentaciones
 - 'Barrios: El Gancho'
 title: 'Sesión 2 Mapping party #Zaccesibilidad: Toma de datos'
+slug: 'sesion-2-mapeado-colaborativo'
 banner: 'img/Toma de datos Mapping Party.jpg'
 ---
 

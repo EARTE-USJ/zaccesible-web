@@ -8,6 +8,7 @@ published: true
 tags:
 - eventos
 title: 'Mapping Party #ZACcesibilidad'
+slug: 'mappgin-party-zaccesibilidad'
 banner: 'img/mapping party-development seed.jpg'
 ---
 

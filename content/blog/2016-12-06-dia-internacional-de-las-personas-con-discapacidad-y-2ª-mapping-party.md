@@ -10,6 +10,7 @@ tags:
 - resultados
 - 'Barrios: La Magdalena'
 title: 'Día internacional de las personas con discapacidad y 2ª Mapping Party #zAccesibilidad'
+slug: 'dia-internacional-de-las-personas-con-discapacidad-y-2a-mapping-party'
 banner: 'img/photo_2016-12-09_09-52-50.jpg'
 ---
 

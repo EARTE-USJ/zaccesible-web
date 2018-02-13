@@ -8,6 +8,7 @@ tags:
 - mapeado colaborativo
 - presentaciones
 title: 'Sesión 1 Mapping party #Zaccesibilidad: Presentación'
+slug: 'sesion-1-mapeado-colaborativo'
 banner: 'img/Mapping-Party.jpg'
 ---
 
