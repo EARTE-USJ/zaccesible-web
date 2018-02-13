@@ -108,7 +108,7 @@ paginate = 10
     longitude = "-0.8326"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:slug/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
