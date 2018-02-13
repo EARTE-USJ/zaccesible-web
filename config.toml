@@ -27,11 +27,21 @@ paginate = 10
     url  = "/blog/"
     weight = 2
 
+# [[menu.main]]
+#     name = "FAQ"
+#     identifier = "faq"
+#     url  = "/faq/"
+#     weight = 3
+
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Mapa"
+    url  = "/mapa"
     weight = 3
+
+[[menu.main]]
+    name = "Acerca de"
+    url  = "/about"
+    weight = 2
 
 [[menu.main]]
     name = "Contact"

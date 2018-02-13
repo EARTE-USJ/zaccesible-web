@@ -10,7 +10,7 @@ toc: true
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de
 aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado desde el grupo de investigación Arquitecturas OpenSource de la
 [Escuela de Arquitectura y Tecnología](http://etsa.usj.es) de la
-[Universidad San Jorge](http://usj.es) y desarrollado originalmente (curso 2015-16) en el marco de la **[cátedra Bantierra - Fundación Adecco](/catedra)** y gracias a la colaboración desinteresada del grupo residente [Mapeado Colaborativo](https://mapcolabora.org) de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
+[Universidad San Jorge](http://usj.es) y desarrollado originalmente (curso 2015-16) en el marco de la **[cátedra Bantierra - Fundación Adecco]({{< ref "page/catedra.md" >}})** y gracias a la colaboración desinteresada del grupo residente [Mapeado Colaborativo](https://mapcolabora.org) de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
 
 <!-- **Tabla de contenidos**
 
@@ -51,14 +51,19 @@ El mapa en el que estamos trabajando tiene las siguientes características:
 
 ## Miembros del proyecto
 
-<ul>
-{% for member in site.data.members %}
-  <li>
-    <a href="{{ member.url }}">{{ member.name }}</a> <br>
-    <i>{{ member.job }}</i>
-  </li>
-{% endfor %}
-</ul>
+* **Carlos Cámara Menoyo**. Investigador Principal. Miembro del grupo Arquitecturas OpenSource de la EARTE USJ.
+* **Ana Ruiz Varona**. Investigadora. Miembro del grupo Arquitecturas OpenSource de la EARTE USJ.
+* **Miguel Sevilla-Callejo**. Colaborador exerno (Mapeado Colaborativo. Universidad de Zaragoza)
+* **Luis Casas**. Estudiante con beca de investigación.
+
+<!-- {{ range $.Site.Data.members.members-current }}
+  <ul>
+    {{ range .members }}
+    <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+{{ end }} -->
+
 
 ## Agradecimientos
 

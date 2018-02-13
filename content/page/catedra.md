@@ -3,7 +3,7 @@ layout: page
 title: "Cátedra Bantierra-Fundación Adecco"
 parent: "about"
 menu: "about"
-url: /catedra
+url: '/catedra'
 published: true
 sidebar_link: false
 ---
@@ -11,32 +11,22 @@ La Cátedra Bantierra-Fundación Adecco de la [Escuela Técnica de Arquitectura]
 
 ## Breve historia de la Cátedra
 
+### Curso 2010-11
 En el curso 2010-11, la [Escuela Técnica de Arquitectura](http://etsa.usj.es) y la Fundación Adecco, junto con la Empresa Arcelor Mittal, establecieron un convenio  de colaboración y crearon una cátedra, bajo la dirección de Santiago Carroquino, destinada a generar unidades de diagnóstico sobre movilidad, fundamentadas en en la accesibilidad física en edificios y espacios públicos.
 
+### Curso 2011-15
 Gracias a esa primera y exitosa experiencia, y tras la incorporación de Bantierra junto la Fundación Adecco, al curso siguiente la cátedra pasa a llamarse *Cátedra Bantierra-Fundación Adecco* y se inicia un segundo ciclo bajo la dirección de Ángel Comeras. Durante los cuatro cursos siguientes, la cátedra estará orientada a trabajar aspectos relativos a la discapacidad intelectual relacionados con la identificación e integración a través de proyectos de aprendizaje-servicio entre alumnos de la ETSA y residentes, con discapacidad intelectual, de los "hogares CEDES" de la fundación homónima. Buena parte de los resultados obtenidos en este segundo ciclo pueden encontrarse en la publicación [Arquitectura y discapacidad intelectual: momentos de coincidencia](http://ediciones.usj.es/?p=847) y en numerosos congresos de innovación docente y arquitectura.
 
 ![Portada del libro Arquitectura y discapacidad intelectual: momentos de coincidencia](http://ediciones.usj.es/wp-content/uploads/2014/05/Arquitectura-y-discapacidad-Portada-600px.jpg)
 
-En el curso 2015-16, se inicia un tercer ciclo con el proyecto *[Zaragoza Accesible](/about)*, cambiando la escala (esta vez a escala urbana) y dándole un enfoque en el que las TIC juegan un papel importante. Toda la información del proyecto está [en este enlace](/about)
+### Curso 2015-2016
+En el curso 2015-16, se inicia un tercer ciclo con el proyecto *[Zaragoza Accesible](/about)*, cambiando la escala (esta vez a escala urbana) y dándole un enfoque en el que las TIC juegan un papel importante. Toda la información del proyecto está [en este enlace]({{< ref "page/about.md" >}})
 
 ## Miembros de la Cátedra
 
-<ul>
-{% for member in site.data.members %}
-  <li>
-    <a href="{{ member.url }}">{{ member.name }}</a> <br>
-    <i>{{ member.job }}</i>
-  </li>
-{% endfor %}
-</ul>
-
- Cursos anteriores
-
- <ul>
- {% for member in site.data.members-legacy %}
-   <li>
-     <a href="{{ member.url }}">{{ member.name }}</a> <br>
-     <i>{{ member.job }}</i>
-   </li>
- {% endfor %}
- </ul>
+* **Carlos Cámara Menoyo**. Director de la Cátedra (2015-2016).Investigador Principal.
+* **Ana Ruiz Varona**. Investigadora. Curso 2015-2016
+* **Santiago Elía García**. Investigador. Curso 2015-2016
+* **César Canalís Pedrón**. Investigador. Curso 2015-2016
+* **Ángel Comeras Serrano**. Director de la cátedra (2011-2015)
+* **Santiago Carroquino Larraz**. Director de la cátedra (2010-2011)
