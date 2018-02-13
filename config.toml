@@ -1,5 +1,5 @@
 baseurl = "http://zaccesible.netlify.com/"
-title = "Universal"
+title = "Zaragoza Accesible"
 theme = "hugo-universal-theme"
 # themesDir = "themes"
 languageCode = "es-esf"
