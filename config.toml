@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "http://zaccesible.netlify.com"
 title = "Universal"
 theme = "hugo-universal-theme"
 # themesDir = "themes"
@@ -6,9 +6,9 @@ languageCode = "es-esf"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "zaccesibilidad"
+disqusShortname = "zaccesible"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-76289367-1"
 
 # Define the number of posts per page
 paginate = 10
