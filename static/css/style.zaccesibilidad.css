@@ -1141,6 +1141,16 @@ fieldset[disabled] .btn-template-primary.active {
   opacity: 1;
   filter: alpha(opacity=100);
 }
+
+.owl-carousel a {
+  color: white;
+  text-decoration: underline;
+}
+
+.owl-carousel a:hover {
+  color: white;
+}
+
 .home-carousel {
   position: relative;
   background: url('../img/cartel-aps.png') center center repeat;
