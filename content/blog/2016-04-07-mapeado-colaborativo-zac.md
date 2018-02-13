@@ -1,16 +1,17 @@
 ---
 author: Carlos Cámara
-categories: blog
+categories:
+  - Resultados
 comments: true
 date: 2016-04-07T00:00:00Z
 published: true
 tags:
-- anuncios
 - resultados
 - mapeado colaborativo
+title: Sobre Mapeado Colaborativo
+banner: 'img/mapeado-colaborativo-logo.png'
 ---
-
-![Logo Mapeado colaborativo]({{site.baseurl}}/media/mapeado-colaborativo-logo.png)
+<img src="/img/mapeado-colaborativo-logo.png" alt="Logo Mapeado colaborativo" class="img img-responsive" />
 
 Una de las acciones principales a llevar a cabo en el proyecto *[Zaragoza Accesible](/about)* es la organización de una  *Mapping Party*, un evento abierto a todo el mundo en el que voluntarios se reunen para mapear colaborativamente a través de la plataforma [OpenStreetMap](http://openstreetmap.org), con el doble objetivo de dar a conocer el proyecto, la problemática y OSM y por otro para atraer a personas que quieran participar en las observaciones de campo y añadiendo datos que enriquezcan el mapa (Informaremos al respecto próximamente).
 

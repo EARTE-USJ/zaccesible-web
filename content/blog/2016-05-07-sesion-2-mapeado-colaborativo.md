@@ -1,8 +1,8 @@
 ---
-author:
-- Carlos Cámara
-- César Canalís
-categories: blog
+author: Carlos Cámara
+categories:
+  - Mapping parties
+  - Crónicas
 comments: true
 date: 2016-05-07T13:54:41Z
 published: true
@@ -10,28 +10,29 @@ tags:
 - crónicas
 - mapeado colaborativo
 - presentaciones
+- 'Barrios: El Gancho'
 title: 'Sesión 2 Mapping party #Zaccesibilidad: Toma de datos'
+banner: 'img/Toma de datos Mapping Party.jpg'
 ---
 
-![Asistentes a la mapping party distribuyéndonos el trabajo.](/media/Toma de datos Mapping Party.jpg)
+<img src="/img/Toma de datos Mapping Party.jpg" alt="Asistentes a la mapping party distribuyéndonos el trabajo." class="img img-responsive" />
 
 El sábado 7 de Mayo se llevó a cabo la recogida de datos de la [Mapping Party #Zaccesibilidad](https://twitter.com/search?q=%23zaccesibilidad&src=typd) en el Barrio del Gancho, para la cual contamos con un grupo inicial formado por unas 14 personas con perfiles y edades muy diversos.
 
 Tras una breve presentación de los nuevos integrantes y el reparto del "material de trabajo" formado por [fieldpapers](http://fieldpapers.org/) preparados previamente sobre los que anotaríamos todo lo que fuésemos observando (con la particularidad de que posteriormente pueden escanearse y se georreferencian automáticamente, facilitando también el trabajo de publicación de datos), bolígrafos para tomar notas (proporcionados por la [Universidad San Jorge](http://usj.es)) y botellines de agua y galletas para avituallarnos  (por cortesía de [Eboca vending](https://www.eboca.com/)), procedimos a crear 4 grupos entre los que nos repartiríamos las 12 zonas en las que habíamos dividido la zona de estudio y se estipuló una metodología para enumerar de los diferentes tipos de barreras arquitectónicas previamente clasificadas.
-
 
 <blockquote class="twitter-tweet" data-lang="es" data-width="550"><p lang="es" dir="ltr">Gracias también a <a href="https://twitter.com/EbocaVending">@EbocaVending</a> y a <a href="https://twitter.com/USanJorge">@USanJorge</a> por el welcome pack para los participantes <a href="https://t.co/W6l2f2bMDv">pic.twitter.com/W6l2f2bMDv</a></p>&mdash; Mapeado Colaborativo (@MapColabora) <a href="https://twitter.com/MapColabora/status/728928890006163457">7 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Durante la toma de datos pudimos anotar aspectos relacionados con anchura de calles, pavimentos, cruces de peatones, superficies, escaleras... según la [metodología que hemos estado desarrollando](http://zaccesible.usj.es/blog/2016/04/19/metodologia.html). En este sentido resultó muy destacable la participación de Alejandro, un usuario de sillas de ruedas, que además de acompañarnos durante la mañana, nos dió una lección magistral *in situ* sobre los problemas que suponen los diferentes tipos de barreras arquitectónicas para este colectivo. Aportó mas *inputs* sobre las barreras arquitectónicas que inicialmente no se habían considerado, como por ejemplo pavimentos en mal estado, jardineras de árboles o un dato importante que nos pasó desparecibido: la existencia de bordillos "rebajados" que no enrasan perfectamente con el pavimento inferior y que aunque inicialmente parecen *accesibles* en silla de ruedas, no lo son, ya que los usuarios con silla de ruedas eléctrica no pueden subir por dicho elemento por sus propios medios, y con ayuda, la silla sufre un deterioro notable. Lo mismo pasa con usuarios con silla de ruedas convencional, dependiendo de la edad y de la habilidad del usuario no son accesibles. Gracias a su aportación pudimos incorporar esta nueva información y replantear los datos que habíamos tomado previamente en las pruebas piloto realizadas en  [ACTUR](http://zaccesible.usj.es/blog/2016/04/20/notas-campo-actur.html), [Casco](http://zaccesible.usj.es/blog/2016/04/22/notas-campo-casco-viejo.html) y [Magdalena](http://zaccesible.usj.es/blog/2016/04/25/notas-campo-casco-viejo-magdalena.html).
 
-![](/media/2016-05-07_11-17-14.jpg)
+<img src="/img/2016-05-07_11-17-14.jpg" alt="" class="img img-responsive" />
 
-![](/media/2016-05-07_11-48-06.jpg)
+<img src="/img/2016-05-07_11-48-06.jpg" alt="" class="img img-responsive" />
 
 Además, en esta sesión contamos entre los participantes con niños acompañando a sus padres que, no solo disfrutaron de la actividad, sino que sus preguntas y aportaciones fueron muy enriquecedoras. Su mirada nos planteó la necesidad de concienciar desde tempranada edad acerca de las barreras arquitectónicas y lo que estas suponen en el día a día de los usuarios con discapacidad.
 
-![](/media/2016-05-07_11-37-34.jpg)
+<img src="/img/2016-05-07_11-37-34.jpg" alt="" class="img img-responsive" />
 
 Tras casi 4 horas de trabajo cuidadoso (a la vez que distendido), nuestros fieldpapers adquirieron un aspecto bastante completo, tal y como pueden apreciarse en las siguientes imágenes:
 

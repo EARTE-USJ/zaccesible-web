@@ -1,20 +1,21 @@
 ---
 author: Carlos Cámara
 categories:
-- blog
+  - Mapping parties
+  - Resultados
 comments: true
 date: 2017-03-24T00:00:00Z
 tags:
-- Zaccesibilidad
-- Mapping party
-- Mapeado Colaborativo
-- Delicias
-- Resultados
-- Práctica APS
+  - Zaccesibilidad
+  - Mapping party
+  - Mapeado Colaborativo
+  - 'Barrios: Delicias'
+  - Práctica APS
 title: Práctica Aprendizaje y Servicio en el barrio de las Delicias
+banner: "img/2017/06/Cartel-Mapping-Party-p.png"
 ---
 
-![Cartel Mapping Party]({{site.baseurl}}/images/2017/06/Cartel-Mapping-Party-p.png)
+<img src="/img/2017/06/Cartel-Mapping-Party-p.png" class="img img-responsive" />
 
 El pasado viernes 24 de mayo realizamos una nueva sesión de trabajo de campo mapeando las aceras, semáforos y calles del barrio de las Delicias un tanto especial. Más allá de la localización (es la primera vez que trabajamos en la junta de Las Delicias), la novedad estuvo en los integrantes del mapeado y la fórmula que adoptamos. Y es que, en esta ocasión, además de las personas que asistieron voluntariamente, la mayoría de los participantes eran alumnos del grado de Arquitectura de la Escuela de Arquitectura y Tecnología de la [Universidad San Jorge](http://usj.es), que como parte de una práctica de Aprendizaje y Servicio dentro del marco de la asignatura Urbanismo VI, tenían que realizar un ejercicio evaluable al respecto.
 
@@ -33,7 +34,7 @@ Tras la sesión teórica, iniciamos el trabajo de campo siguiendo la metodologí
 
 Aquí algunas fotos de la sesión de toma de datos:
 
-![]({{site.baseurl}}/images/2017/06/photo_2017-03-27_09-51-11.jpg)
+<img src="/img/2017/06/photo_2017-03-27_09-51-11.jpg" class="img img-responsive" />
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Finalizando sesión mapeadi accesibilidad en Delicias.<a href="https://twitter.com/hashtag/Zaccesibilidad?src=hash">#Zaccesibilidad</a> cc <a href="https://twitter.com/ArquitecturaUSJ">@ArquitecturaUSJ</a>. ¡Nos vemos en la próxima! <a href="https://t.co/jAAdApqTcC">pic.twitter.com/jAAdApqTcC</a></p>&mdash; Mapeado Colaborativo (@MapColabora) <a href="https://twitter.com/MapColabora/status/845250389633093633">24 de marzo de 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

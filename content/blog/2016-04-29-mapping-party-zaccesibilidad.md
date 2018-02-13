@@ -1,16 +1,17 @@
 ---
 author: Carlos Cámara
-categories: blog
+categories:
+  - Anuncios
 comments: true
 date: 2016-04-29T10:58:40Z
 published: true
 tags:
-- anuncios
 - eventos
 title: 'Mapping Party #ZACcesibilidad'
+banner: 'img/mapping party-development seed.jpg'
 ---
 
-![Mapping party at Camp Roberts](/media/mapping party-development seed.jpg)
+<img src="/img/mapping party-development seed.jpg" alt="Mapping party at Camp Roberts" class="img img-responsive" />
 
 Durante los días 6, 7 y 9 de mayo tendrá lugar la primera *Mapping Party* dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la [cátedra Bantierra-Fundación Adecco](/catedra) de la [USJ](http://usj.es) y el grupo de trabajo *[Mapeado Colaborativo](http://zaccesible.usj.es/blog/2016/04/07/mapeado-colaborativo-zac.html)* de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y a la que invitamos a todo el mundo a participar.
 

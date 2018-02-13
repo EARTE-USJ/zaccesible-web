@@ -1,6 +1,7 @@
 ---
 author: César Canalís
-categories: blog
+categories:
+  - General
 comments: true
 date: 2016-04-19T00:00:00Z
 published: true
