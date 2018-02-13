@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mapa
-permalink: /mapa/
+url: /mapa
 published: true
 sidebar_link: true
 ---

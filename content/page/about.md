@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Sobre el proyecto
-permalink: /about/
+url: /about
 published: true
 sidebar_link: true
+menu: "about"
+toc: true
 ---
 
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de
@@ -12,6 +13,8 @@ aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollad
 [Universidad San Jorge](http://usj.es) y desarrollado originalmente (curso 2015-16) en el marco de la **[cátedra Bantierra - Fundación Adecco](/catedra)** y gracias a la colaboración desinteresada de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
 
 **Tabla de contenidos**
+
+{{.TableOfContents}}
 
 * TOC will be output here
 {:toc}

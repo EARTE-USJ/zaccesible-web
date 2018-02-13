@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Cátedra Bantierra-Fundación Adecco
-permalink: /catedra/
+title: "Cátedra Bantierra-Fundación Adecco"
+parent: "about"
+menu: "about"
+url: /catedra
 published: true
 sidebar_link: false
 ---
