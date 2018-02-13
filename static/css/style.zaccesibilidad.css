@@ -1262,6 +1262,8 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials {
   padding: 0;
   margin-bottom: 40px;
+  font-size: 14px;
+  line-height: 1.42857143;
 }
 .testimonials .item {
   list-style-type: none;
@@ -2514,10 +2516,16 @@ fieldset[disabled] .btn-template-primary.active {
 #get-it p {
   margin: 0 0 20px;
 }
+
+/*
+ * Footer
+ */
 #footer {
   background: #555555;
   padding: 50px 0;
   color: #999999;
+  font-size: 14px;
+  line-height: 1.42857143;
 }
 #footer h1,
 #footer h2,
@@ -3167,8 +3175,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 18px;
+  line-height: 1.5;
   color: #555555;
 }
 a {
