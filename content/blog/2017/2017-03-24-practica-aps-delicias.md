@@ -3,6 +3,7 @@ author: Carlos Cámara
 categories:
   - Mapping parties
   - Resultados
+  - Crónicas
 comments: true
 date: 2017-03-24T00:00:00Z
 tags:
