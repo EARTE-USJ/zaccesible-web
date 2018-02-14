@@ -9,7 +9,7 @@ tags:
 - mapping Party
 - 'Barrios: La Magdalena'
 title: 'Aparición en prensa: artículo en el Heraldo'
-banner: '/img/Dossier-prensa-5-diciembre-02.png'
+banner: '/img/Dossier-prensa-5-diciembre-02b.png'
 
 ---
 
