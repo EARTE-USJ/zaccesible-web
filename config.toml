@@ -123,7 +123,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Un proyecto de investigación-acción de accesibilidad urbana de la Universidad San Jorge con la <a href="/colaboradoras">colaboración de muchas otras entidades y personas</a>.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -169,7 +169,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Miembros del proyecto"
-    subtitle = "Si bien se trata de un proyecto impulsado por la Universidad San Jorge, no sería posible sin todas las entidades y personas que colaboran con el mismo (visita <a href=\"/colaboradoras\">este enlace para saber más sobre las entidades colaboradoras</a>)"
+    subtitle = "Si bien se trata de un proyecto impulsado por la Universidad San Jorge, no sería posible sin todas las entidades y personas que colaboran con el mismo (visita [este enlace](/colaboradoras) para saber más sobre las entidades colaboradoras)"
 
 [params.recent_posts]
     enable = true
