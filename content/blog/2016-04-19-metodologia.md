@@ -10,7 +10,7 @@ tags:
 title: Metodología
 ---
 
-![diseñoaccesibele.es.jpg]({{site.baseurl}}/media/diseñoaccesibele.es.jpg)
+<img src="/img/diseñoaccesibele.es.jpg" class="img img-responsive" />
 
 El objetivo de *Zaragoza Accesible* es mapear las barreras arquitectónicas de la ciudad de Zaragoza con el fin facilitar el día a día de sus habitantes con discapacidad.
 Para ello se utilizará [Open Street Map](http://osm.org) como herramienta de trabajo con el fin de que quede en una base de datos abiertos para que todo el mundo tenga acceso tanto para información como para elaborar proyectos futuros.
