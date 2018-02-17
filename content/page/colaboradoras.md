@@ -34,7 +34,7 @@ El presente proyecto es fruto del trabajo colaborativo de muchas entidades y per
 - Alumnos de la asignatura Urbanismo VI del grado de Arquitectura de la Escuela de Arquitectura y Tecnología de la USJ (cursos 2016-17 y 2017-18).
 
 ## Financiación
-El proyecto se ha financiado con fondos propios y, parcialmente, gracias a las siguientes entidades:
+El proyecto se ha financiado con fondos propios[^1] y, parcialmente, gracias a las siguientes entidades:
 
 - Ayuda innovación docente, [Grupo San Valero](https://www.gruposanvalero.es/) (Curso 20017-18)
 - Ayuda Prácticas Aprendizaje y Servicio de la [Obra Social Ibercaja](http://obrasocial.ibercaja.es/) y [Grupo San Valero](https://www.gruposanvalero.es/) (Curso 2016-17)
@@ -49,3 +49,5 @@ Agradecemos también la participación puntual, pero igualmente necesaria, de la
 - **Zaragoza activa**: por la difusión de las actividades y por ceder sus espacios para las actividades de Mapeado Colaborativo.
 - **Asociación de vecinos y vecinas Manuel Viola** y al **Centro Cívico las Esquinas del Psiquiátrico**, por su apoyo en la organización y difusión de la *III Mapping Party de #Zaccesibilidad en el barrio de las Delicias*.
 - **[Ganchillo social](https://elganchillosocial.wordpress.com/)** y **[Ocio inclusivo](https://ocioinclusivoarrabal.wordpress.com/)** por promover e impulsar la realización de la *IV Mapping Party en el Arrabal*.
+
+[^1]: Actualmente no disponemos de ningún tipo de financiación externa. Si formas parte de una entidad interesada en colaborar en la financiación del proyecto, por favor,  [ponte en contacto con nosotros](/contact) y te contaremos cuales son nuestras necesidades y qué contraprestaciones podemos ofrecer a cambio.
