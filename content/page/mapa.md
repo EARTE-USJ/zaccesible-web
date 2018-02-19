@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mapa
 url: /mapa
 published: true
