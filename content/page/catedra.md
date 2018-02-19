@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Cátedra Bantierra-Fundación Adecco"
 parent: "about"
 menu: "about"
