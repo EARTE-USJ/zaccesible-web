@@ -8,7 +8,7 @@ categories:
   - "Aparición en medios"
 banner: "img/2018/zaccesible-ruta-ciencia-Screenshot_20180217_233339.png"
 ---
-{{< youtube bYWu1qpCNF8 >}}
+{{< youtube Fi5CsTFgZjM >}}
 
 El pasado 16 de febrero se emitió el capítulo 84 de "En Ruta por la ciencia" en Aragón TV, un programa dedicado a dar a conocer proyectos de investigación desarrollados en Aragón y que ya va por su 8ª temporada. Buena parte del capítulo, dedicado a las ciudades, lo ocupa la entrevista que me realizó el físico de partículas [Carlos Pobes](https://twitter.com/edmldmv) para conocer en profundidad el proyecto Zaragoza Accesible, todo ello intercalado con la experiencia personal de Nerea de la Natividad, voluntaria de la [Fundación DFA](http://fundaciondfa.es/).
 
