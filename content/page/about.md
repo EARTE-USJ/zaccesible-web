@@ -71,7 +71,7 @@ El mapa en el que estamos trabajando tiene las siguientes características:
 
 ## Agradecimientos
 
-Este proyecto no sería posible sin el soporte de [Bantierra](http://www.bantierra.es/) y la [Fundación Addeco](http://www.fundacionadecco.es),  a la participación desinteresada de la comunidad [OpenStreetMap](htpp://openstretmap.org) de Zaragoza y a los miembros de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) por su soporte en la consolidación del grupo de trabajo *Mapeado colaborativo*.
+Este proyecto no sería posible sin el soporte inicial de [Bantierra](http://www.bantierra.es/) y la [Fundación Addeco](http://www.fundacionadecco.es)[^1],  a la participación desinteresada de la comunidad [OpenStreetMap](htpp://openstretmap.org) de Zaragoza y a los miembros de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) por su soporte en la consolidación del grupo de trabajo *Mapeado colaborativo*.
 
 * Fundación Adecco
   * Beatriz Gutiérrez
@@ -83,3 +83,5 @@ Este proyecto no sería posible sin el soporte de [Bantierra](http://www.bantier
   * Alejandro Suárez
   * Miembros del grupo "[Mapeado Colaborativo]({{< ref "blog/2016-04-07-mapeado-colaborativo-zac.md" >}})"
   * Contribuidores anónimos de [OpenStreetMap](htpp://openstretmap.org)
+
+[^1]: Actualmente no disponemos de ningún tipo de financiación externa. Si formas parte de una entidad interesada en colaborar en la financiación del proyecto, por favor,  [ponte en contacto con nosotros](/contact) y te contaremos cuales son nuestras necesidades y qué contraprestaciones podemos ofrecer a cambio.
