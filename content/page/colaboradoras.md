@@ -12,10 +12,11 @@ El presente proyecto es fruto del trabajo colaborativo de muchas entidades y per
 ## Diseño y coordinación del proyecto:
 - **Grupo Arquitecturas OpenSource** (Universidad San Jorge)
   - Carlos Cámara Menoyo (Investigador Principal)
-  - Ana Ruiz Varona (Investigadora)
 
 ## Soporte técnico y gestión mapping parties:
 - **Grupo Arquitecturas OpenSource** (Universidad San Jorge)
+  - Carlos Cámara Menoyo (Investigador Principal)
+  - Ana Ruiz Varona (Investigadora)
 - **[Mapeado Colaborativo](https://mapcolabora.org)**: Grupo residente de Zaragoza Activa
   - Miguel Sevilla-Callejo (Coordinador)
   - Alejandro Súarez (Coordinador)
