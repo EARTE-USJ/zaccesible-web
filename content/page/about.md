@@ -12,6 +12,10 @@ aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollad
 [Escuela de Arquitectura y Tecnología](http://etsa.usj.es) de la
 [Universidad San Jorge](http://usj.es) y desarrollado originalmente (curso 2015-16) en el marco de la **[cátedra Bantierra - Fundación Adecco]({{< ref "page/catedra.md" >}})** y gracias a la colaboración desinteresada del grupo residente [Mapeado Colaborativo](https://mapcolabora.org) de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
 
+En este fragmento del [programa 84 de En ruta con la ciencia](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330) (emitido en Aragón TV el 16 de febrero de 2018) se explica de forma resumida y en 9 minutos las principales características del proyecto:
+
+{{< youtube Fi5CsTFgZjM >}}
+
 <!-- **Tabla de contenidos**
 
 {{.TableOfContents}}
