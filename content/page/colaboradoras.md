@@ -50,5 +50,6 @@ Agradecemos también la participación puntual, pero igualmente necesaria, de la
 - **Zaragoza activa**: por la difusión de las actividades y por ceder sus espacios para las actividades de Mapeado Colaborativo.
 - **Asociación de vecinos y vecinas Manuel Viola** y al **Centro Cívico las Esquinas del Psiquiátrico**, por su apoyo en la organización y difusión de la *III Mapping Party de #Zaccesibilidad en el barrio de las Delicias*.
 - **[Ganchillo social](https://elganchillosocial.wordpress.com/)** y **[Ocio inclusivo](https://ocioinclusivoarrabal.wordpress.com/)** por promover e impulsar la realización de la *IV Mapping Party en el Arrabal*.
+- **Comunidad OpenStreetMap**, por hacer posible la existencia de la plataforma y contribuir desinteresadamente a su desarrollo.
 
 [^1]: Actualmente no disponemos de ningún tipo de financiación externa. Si formas parte de una entidad interesada en colaborar en la financiación del proyecto, por favor,  [ponte en contacto con nosotros](/contact) y te contaremos cuales son nuestras necesidades y qué contraprestaciones podemos ofrecer a cambio.
