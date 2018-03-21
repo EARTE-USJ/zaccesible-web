@@ -11,7 +11,7 @@ tags:
 banner: '/img/2018/cover_issue_4870_es_ES.jpg'
 
 ---
-El pasado 1 de enero de 2018 se publicó el número 1 del Volúmen 28 de la revista [Bitácora Urbano Territorial](https://revistas.unal.edu.co/index.php/bitacora/index), en el que se recoge el Artículo [Accesibilidad y tecnologías de información colaborativas. Cartografías para una ciudad inclusiva](https://revistas.unal.edu.co/index.php/bitacora/article/view/68316), redactado por Nuria Ruiz, Rafael R. Temes Córdovez y Carlos Cámara, en el que se mencionan algunos resultados del proyecto.
+El pasado 1 de enero de 2018 se publicó el número 1 del Volúmen 28 de la revista [Bitácora Urbano Territorial](https://revistas.unal.edu.co/index.php/bitacora/index), en el que se recoge el Artículo [Accesibilidad y tecnologías de información colaborativas. Cartografías para una ciudad inclusiva](https://revistas.unal.edu.co/index.php/bitacora/article/view/68316), redactado por Ana Ruiz, Rafael R. Temes Córdovez y Carlos Cámara, en el que se mencionan algunos resultados del proyecto.
 
 A continuación tenéis el resumen del artículo y el [enlace a la versión en PDF](https://revistas.unal.edu.co/index.php/bitacora/article/view/68316/pdf):
 
