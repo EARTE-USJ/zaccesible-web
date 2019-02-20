@@ -64,6 +64,7 @@ El mapa en el que estamos trabajando tiene las siguientes características:
 Anteriormente han participado:
 
 * **César Canalís** (curso 2016-17). Asistente de investigación.
+* **Lourdes Pérez** (curso 2016-17). Estudiante en prácticas.
 * **Luis Casas** (curso 2017-18). Estudiante con beca de investigación.
 
 <!-- {{ range $.Site.Data.members.members-current }}
