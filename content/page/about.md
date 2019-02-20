@@ -58,7 +58,13 @@ El mapa en el que estamos trabajando tiene las siguientes características:
 * **Carlos Cámara Menoyo**. Investigador Principal. Miembro del grupo Arquitecturas OpenSource de la EARTE USJ.
 * **Ana Ruiz Varona**. Investigadora. Miembro del grupo Arquitecturas OpenSource de la EARTE USJ.
 * **Miguel Sevilla-Callejo**. Colaborador exerno (Mapeado Colaborativo. Universidad de Zaragoza)
-* **Luis Casas**. Estudiante con beca de investigación.
+* **Javier Corzán**. Asistente de investigación.
+* **Javier Claver**. Estudiante en prácticas técnicas.
+
+Anteriormente han participado:
+
+* **César Canalís** (curso 2016-17). Asistente de investigación.
+* **Luis Casas** (curso 2017-18). Estudiante con beca de investigación.
 
 <!-- {{ range $.Site.Data.members.members-current }}
   <ul>
